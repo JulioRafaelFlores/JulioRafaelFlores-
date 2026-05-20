@@ -14,9 +14,9 @@
 ---
 
 
-#### 🔧 Languages
+#### 🔧 Lenguajes 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,vscode,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,vscode,mysql)]
 
 
  
